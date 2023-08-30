@@ -1,0 +1,37 @@
+关闭聊天框#Cerrar caja de chat:|
+当前存档Hash验证信息#Verificacion de Hash guardado actual::|
+操作#Funcionamiento:|
+虚拟桌宠模拟器 规格#VPet Simulator Especificaciones:|
+吉娜#Ganar:|
+通过#Aprobar:|
+失败#Fallar:|
+自定义聊天接口#Interfaz de Chat Personalizada:|
+聊天框已关闭#Caja de chat cerrada:|
+尝试加载游戏存档#Tratando de cargar archivos de juego:|
+尝试加载Steam内容#Tratando de cargar contenido de Steam:|
+尝试加载游戏动画#Intenta cargar la animacion del juego:|
+有效度#Validez:|
+喜好度#Preferencia:|
+桌宠图形渲染的分辨率,越高图形越清晰\r但是高分辨率会占用更多内存\r重启后生效#La resolucion a la que se representan los graficos en el tipo de tabla, mayor sera la resolucion\r pero las resoluciones mas altas ocuparan mas memoria\r esto tomara efecto despues de un reinicio:|
+渲染分辨率#Resolucion de renderizado:|
+清理缓存#Limpiar Cache:|
+清理缓存的动画,声音文件#Limpiar el cache de animacion y archivos de sonidos.:|
+音乐识别设置#Ajustes de reconocimiento de musica:|
+设置识别音乐播放特殊动作阈值#Colocar el umbral para reconocer acciones especiales de reproduccion de musica.:|
+当前播放音量大小#Volumen de la reproduccion actual:|
+触发音量#Accion musical:|
+当实时播放音量达到该值时运行音乐动作#Ejecuta una accion musical cuando el volumen en vivo alcanza este valor.:|
+当实时播放音量达到该值时运行特殊音乐动作#Ejecuta una accion musical especial cuando el volumen de reproduccion en tiempo real alcance este valor:|
+高潮音量#Accion musical especial:|
+Happyly#Felizmente:|
+Nomally#Normalmente:|
+PoorConditionly#Desafortunadamente:|
+Illly#Enfermiza:|
+plugin#Complemento de codigo:|
+MOD加载错误,是MOD({0})导致的\n如有可能请发送 错误信息截图和引发错误之前的操作 给开发者:service@exlb.net\n感谢您对游戏开发的支持\n#Error de carga del MOD, causado por el MOD({0})\nSi es posible, Por favor enviar una captura de pantalla del mensaje de error y la accion que tomaste antes de desencadenar el error al desarrollador: service@exlb.net\nGravias por tu suporte en el desarrollo del juego\n:|
+游戏发生错误,可能是#Ha ocurrido un error en el juego, probablemente:|
+游戏致命性错误#Error Fatal de Juego:|
+游戏或者MOD#Juego o Mod:|
+导致的\n如有可能请发送 错误信息截图和引发错误之前的操作 给开发者:service@exlb.net\n感谢您对游戏开发的支持\n#Si es posible, Por favor enviar una captura de pantalla del mensaje de error y las acciones que tomaste antes de desencadenar el error al desarrollador: service@exlb.net\nGracias por tu soporte al desarrollo del juego\n:|
+清理指令已下达,下次启动桌宠时生效#El comando de limpieza se ha emitido y tendra efecto la proxima vez que se inicie la mascota de escritorio:|
+服务器超载,请稍后重试#Sobrecarga del servidor, intentalo de nuevo mas tarde:|

@@ -1,0 +1,15 @@
+创意工坊物品无法进行上传,请移动到mod文件夹后重试#Los elementos del taller creativo no se pueden cargar, muevase a la carpeta "mod" e intente nuevamente.:|
+由于修改游戏数据导致数据溢出,存档可能会出错\n开发者提醒您请不要使用过于超模的MOD#Debido a la modificacion de los datos del juego causada por el desbordamiento de datos, es posible que el archivo sea incorrecto\nEl desarrollador te recuerda que no uses demasiados MOD de supermodelo.:|
+玩耍#Jugar:|
+研究#Investigar:|
+玩游戏#Jugar un juego:|
+保存游戏#Guardar partida:|
+手动保存桌宠存档,就算不手动保存,桌宠也会在退出的时候自动保存#Guarde manualmente el archivo de VPet, incluso si no lo guarda manualmente, VPet lo guardara automaticamente cuando salga.:|
+保存成功#Guardado exitosamente:|
+模组 {0} 插件损坏\n虚拟桌宠模拟器未能成功加载该插件\n请联系作者修复该问题#Daño del modulo {0} del complemento\nEl simulador de VPet no pudo cargar el complemento\nComuniquese con el autor para solucionar el problema.:|
+缓存被其他软件删除,游戏无法继续运行\n请重启游戏重新生成缓存#El cache fue eliminado por otro software, el juego no puede continuar ejecutandose\nReinicia el juego para regenerar el cache.:|
+游戏内存不足,请修改设置中渲染分辨率以便降低内存使用#La memoria del juego es insuficiente, modifica la resolucion de renderizado en la configuracion para reducir el uso de memoria.:|
+没有可以说的话#No hay nada que decir:|
+下次刷新剩余时间: {0:f1}分钟#Tiempo restrante de la proxima actualizacion: {0:f1} minutos:|
+使用桌宠选项式\r聊天功能#Utilizar la funcion de\rchat de vpet:|
+支持MOD与创意工坊添加聊天内容#Soporte a MOD y a la Workshop para agregar contenido de chat:|
